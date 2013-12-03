@@ -1,0 +1,17 @@
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemModelBuilder.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/TagFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemScorer.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/CSVItemTagDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/QueryDAOProvider.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/ii/SimpleItemItemModel.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/ii/SimpleGlobalItemScorer.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/ItemTagDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/UserFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/ii/IIMain.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec5/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java

@@ -1,0 +1,16 @@
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/CBFMain.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/MOOCRatingDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/ItemTitleDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/UserNameDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/TFIDFItemScorer.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/TFIDFModelBuilder.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/ItemTagDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/MOOCUserDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/MOOCItemDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/RatingFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/TagFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/TFIDFModel.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/test/UtilTest.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/TitleFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/CSVItemTagDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec2/src/main/java/org/grouplens/mooc/cbf/dao/UserFile.java

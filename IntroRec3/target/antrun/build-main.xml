@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip destfile="C:\Users\szhao\Dropbox\IntroRec3\target/uu-assignment.zip">
+    <mappedresources>
+      <fileset dir="C:\Users\szhao\Dropbox\IntroRec3">
+        <include name="pom.xml"/>
+        <include name="src/**/*.java"/>
+        <include name="src/main/resources/*.xml"/>
+        <include name="data/*.csv"/>
+      </fileset>
+      <globmapper to="uu-assignment/*" from="*"/>
+    </mappedresources>
+  </zip>
+</target>
+</project>

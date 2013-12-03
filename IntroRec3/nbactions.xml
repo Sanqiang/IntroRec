@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>run</actionName>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-classpath %classpath ${packageClassName} 1455:9741 1455:9802 1455:424 1455:153 1455:329 5347:280 5347:12 5347:243 5347:8587 5347:414 2399:557 2399:161 2399:786 2399:194 2399:272 3253:187 3253:36657 3253:155 3253:640 3253:786 2214:272 2214:280 2214:24 2214:197 2214:141</exec.args>
+                <exec.executable>java</exec.executable>
+            </properties>
+        </action>
+        <action>
+            <actionName>debug</actionName>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-Xdebug -Xrunjdwp:transport=dt_socket,server=n,address=${jpda.address} -classpath %classpath ${packageClassName} 1455:9741 1455:9802 1455:424 1455:153 1455:329 5347:280 5347:12 5347:243 5347:8587 5347:414 2399:557 2399:161 2399:786 2399:194 2399:272 3253:187 3253:36657 3253:155 3253:640 3253:786 2214:272 2214:280 2214:24 2214:197 2214:141</exec.args>
+                <exec.executable>java</exec.executable>
+                <jpda.listen>true</jpda.listen>
+            </properties>
+        </action>
+        <action>
+            <actionName>profile</actionName>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>${profiler.args} -classpath %classpath ${packageClassName} 1455:9741 1455:9802 1455:424 1455:153 1455:329 5347:280 5347:12 5347:243 5347:8587 5347:414 2399:557 2399:161 2399:786 2399:194 2399:272 3253:187 3253:36657 3253:155 3253:640 3253:786 2214:272 2214:280 2214:24 2214:197 2214:141</exec.args>
+                <exec.executable>${profiler.java}</exec.executable>
+            </properties>
+        </action>
+    </actions>

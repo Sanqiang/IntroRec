@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.umn.cs.recsys</groupId>
+  <artifactId>svd-assignment</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131201044904</lastUpdated>
+  </versioning>
+</metadata>

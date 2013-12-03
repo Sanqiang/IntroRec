@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>run</actionName>
+            <packagings>
+                <packaging>jar</packaging>
+            </packagings>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-classpath %classpath ${packageClassName} 1024:77 1024:268 1024:462 1024:393 1024:36955 2048:77 2048:36955 2048:788 1118:275 1118:329 1118:1637 1118:1422 1118:453 1935:187 1935:114 1935:954 1935:141 1935:2502 1635:194 1635:238 1635:424 1635:640 1635:8358 4675:122 4675:424 4675:812 4675:462 4675:7443 4470:11 4470:187 4470:107 4470:1900 4470:807</exec.args>
+                <exec.executable>java</exec.executable>
+            </properties>
+        </action>
+        <action>
+            <actionName>debug</actionName>
+            <packagings>
+                <packaging>jar</packaging>
+            </packagings>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-Xdebug -Xrunjdwp:transport=dt_socket,server=n,address=${jpda.address} -classpath %classpath ${packageClassName} 1024:77 1024:268 1024:462 1024:393 1024:36955 2048:77 2048:36955 2048:788 1118:275 1118:329 1118:1637 1118:1422 1118:453 1935:187 1935:114 1935:954 1935:141 1935:2502 1635:194 1635:238 1635:424 1635:640 1635:8358 4675:122 4675:424 4675:812 4675:462 4675:7443 4470:11 4470:187 4470:107 4470:1900 4470:807</exec.args>
+                <exec.executable>java</exec.executable>
+                <jpda.listen>true</jpda.listen>
+            </properties>
+        </action>
+        <action>
+            <actionName>profile</actionName>
+            <packagings>
+                <packaging>jar</packaging>
+            </packagings>
+            <goals>
+                <goal>process-classes</goal>
+                <goal>org.codehaus.mojo:exec-maven-plugin:1.2.1:exec</goal>
+            </goals>
+            <properties>
+                <exec.args>-classpath %classpath ${packageClassName} 1024:77 1024:268 1024:462 1024:393 1024:36955 2048:77 2048:36955 2048:788 1118:275 1118:329 1118:1637 1118:1422 1118:453 1935:187 1935:114 1935:954 1935:141 1935:2502 1635:194 1635:238 1635:424 1635:640 1635:8358 4675:122 4675:424 4675:812 4675:462 4675:7443 4470:11 4470:187 4470:107 4470:1900 4470:807</exec.args>
+                <exec.executable>java</exec.executable>
+            </properties>
+        </action>
+    </actions>

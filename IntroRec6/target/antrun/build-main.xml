@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip destfile="/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec6/target/svd-assignment.zip">
+    <mappedresources>
+      <fileset dir="/Users/sanqiangzhao/Documents/NetbeansProjects/IntroRec6">
+        <include name="pom.xml"/>
+        <include name="README.csv"/>
+        <include name="src/**/*.java"/>
+        <include name="src/**/*.groovy"/>
+        <include name="src/main/resources/*.xml"/>
+        <include name="data/*.csv"/>
+        <exclude name="data/movielens-*"/>
+      </fileset>
+      <globmapper to="svd-assignment/*" from="*"/>
+    </mappedresources>
+  </zip>
+</target>
+</project>

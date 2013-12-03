@@ -1,0 +1,16 @@
+org/grouplens/mooc/cbf/TFIDFModelBuilder.class
+org/grouplens/mooc/cbf/dao/MOOCUserDAO.class
+org/grouplens/mooc/cbf/dao/ItemTitleDAO.class
+org/grouplens/mooc/cbf/dao/MOOCRatingDAO.class
+org/grouplens/mooc/cbf/dao/MOOCItemDAO.class
+org/grouplens/mooc/cbf/CBFMain.class
+org/grouplens/mooc/cbf/dao/UserFile.class
+org/grouplens/mooc/cbf/TFIDFItemScorer.class
+org/grouplens/mooc/cbf/TFIDFModel.class
+org/grouplens/mooc/cbf/dao/TagFile.class
+org/grouplens/mooc/cbf/dao/CSVItemTagDAO.class
+test/UtilTest.class
+org/grouplens/mooc/cbf/dao/TitleFile.class
+org/grouplens/mooc/cbf/dao/UserNameDAO.class
+org/grouplens/mooc/cbf/dao/ItemTagDAO.class
+org/grouplens/mooc/cbf/dao/RatingFile.class

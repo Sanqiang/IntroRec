@@ -1,0 +1,16 @@
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/TitleFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCItemDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCUserDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/RatingFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/CSVItemTagDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTagDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/UserNameDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/cbf/LuceneItemItemModel.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/cbf/LuceneModelBuilder.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/TagVocabulary.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/MOOCRatingDAO.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/TagEntropyMetric.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/UserFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/TagFile.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/PopularityItemScorer.java
+/Users/sanqiangzhao/Documents/NetbeansProjects/eval-assignment/src/main/java/edu/umn/cs/recsys/dao/ItemTitleDAO.java
